@@ -1,0 +1,26 @@
+open() --> 
+
+syntax-->
+
+open(file_name, access_mode)
+
+
+access_mode -->
+*read
+*write
+*append
+
+
+
+r
+rb
+r+
+rb+
+w
+wb
+w+
+wb+
+a
+ab
+a+
+ab+
